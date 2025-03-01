@@ -6,12 +6,12 @@ This repository is for course "WEB design technology".
 ## Task Details
 ### Task 1: Initiate GIT Repository
 
-1. Create a GitHub repository with the name `csad<YY1YY2><group><student's full name><student's number>`, main branch develop.
+1. Create a GitHub repository with the name `web<YY1YY2><group><student's full name><student's number>`, main branch develop.
 - YY1 – Start studying year
 - YY2 – End studying year  
 
 For example: 2019-2020 -> 1920.
-Full example csad1920ki47spitzeras03.
+Full example web1920ki47spitzeras03.
 
 2. Add access for the author.
 
